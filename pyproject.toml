@@ -3,7 +3,7 @@ name = "analyse-systemes-educatifs"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Nassanalytics",email = "nassim.naoui@gmail.com"}
+    {name = "Nassim Naoui"}
 ]
 readme = "README.md"
 requires-python = ">=3.9"
